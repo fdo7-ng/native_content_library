@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "created": "2019-09-06T14:54Z",
+      "description": "",
+      "version": "2",
+      "files": [
+        {
+          "name": "fake.mf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Image_Template/fake.mf"
+          ]
+        },
+        {
+          "name": "fake.vmdk",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Image_Template/fake.vmdk"
+          ]
+        },
+        {
+          "name": "fake.ovf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Image_Template/fake.ovf"
+          ]
+        }
+      ],
+      "id": "urn:uuid:dab629c7-ab44-4a22-b12e-4ec110682696",
+      "name": "Fake_Image_Template",
+      "metadata": [
+        {
+          "key": "type-metadata",
+          "value": "{\"id\":\"urn:uuid:dab629c7-ab44-4a22-b12e-4ec110682696\",\"version\":\"2\",\"libraryIdParent\":\"urn:uuid:c5d44096-dcfd-4184-b655-3ea3b33609a0\",\"isVappTemplate\":\"false\",\"vmTemplate\":null,\"vappTemplate\":null,\"networks\":[],\"storagePolicyGroups\":null}",
+          "type": "String",
+          "domain": "SYSTEM",
+          "visibility": "READONLY"
+        }
+      ],
+      "properties": {},
+      "selfHref": "Fake_Image_Template/item.json",
+      "type": "vcsp.ovf"
+    },
+    {
+      "created": "2019-09-06T14:54Z",
+      "description": "",
+      "version": "2",
+      "files": [
+        {
+          "name": "Ubuntu.vmdk",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Ubuntu/Ubuntu.vmdk"
+          ]
+        },
+        {
+          "name": "Ubuntu.ovf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Ubuntu/Ubuntu.ovf"
+          ]
+        },
+        {
+          "name": "Ubuntu.mf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Ubuntu/Ubuntu.mf"
+          ]
+        }
+      ],
+      "id": "urn:uuid:b81b6196-65da-44c8-bfea-e303bc25cd3f",
+      "name": "Fake_Ubuntu",
+      "metadata": [
+        {
+          "key": "type-metadata",
+          "value": "{\"id\":\"urn:uuid:b81b6196-65da-44c8-bfea-e303bc25cd3f\",\"version\":\"2\",\"libraryIdParent\":\"urn:uuid:c5d44096-dcfd-4184-b655-3ea3b33609a0\",\"isVappTemplate\":\"false\",\"vmTemplate\":null,\"vappTemplate\":null,\"networks\":[],\"storagePolicyGroups\":null}",
+          "type": "String",
+          "domain": "SYSTEM",
+          "visibility": "READONLY"
+        }
+      ],
+      "properties": {},
+      "selfHref": "Fake_Ubuntu/item.json",
+      "type": "vcsp.ovf"
+    },
+    {
+      "created": "2019-09-06T14:54Z",
+      "description": "",
+      "version": "2",
+      "files": [
+        {
+          "name": "Centos.mf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Centos/Centos.mf"
+          ]
+        },
+        {
+          "name": "Centos.ovf",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Centos/Centos.ovf"
+          ]
+        },
+        {
+          "name": "Centos.vmdk",
+          "size": 0,
+          "etag": "d41d8cd98f00b204e9800998ecf8427e",
+          "hrefs": [
+            "Fake_Centos/Centos.vmdk"
+          ]
+        }
+      ],
+      "id": "urn:uuid:1d6513a1-a99d-452a-bd16-137f7ac355a4",
+      "name": "Fake_Centos",
+      "metadata": [
+        {
+          "key": "type-metadata",
+          "value": "{\"id\":\"urn:uuid:1d6513a1-a99d-452a-bd16-137f7ac355a4\",\"version\":\"2\",\"libraryIdParent\":\"urn:uuid:c5d44096-dcfd-4184-b655-3ea3b33609a0\",\"isVappTemplate\":\"false\",\"vmTemplate\":null,\"vappTemplate\":null,\"networks\":[],\"storagePolicyGroups\":null}",
+          "type": "String",
+          "domain": "SYSTEM",
+          "visibility": "READONLY"
+        }
+      ],
+      "properties": {},
+      "selfHref": "Fake_Centos/item.json",
+      "type": "vcsp.ovf"
+    }
+  ]
+}

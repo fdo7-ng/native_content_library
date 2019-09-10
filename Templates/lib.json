@@ -1,0 +1,17 @@
+{
+  "vcspVersion": "2",
+  "version": "1",
+  "contentVersion": "1",
+  "name": "testlib",
+  "id": "urn:uuid:c5d44096-dcfd-4184-b655-3ea3b33609a0",
+  "created": "2019-09-06T14:54Z",
+  "capabilities": {
+    "transferIn": [
+      "httpGet"
+    ],
+    "transferOut": [
+      "httpGet"
+    ]
+  },
+  "itemsHref": "items.json"
+}
